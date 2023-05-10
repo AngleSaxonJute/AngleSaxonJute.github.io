@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Access main program. Access main security. Access main program grid
-tags: [frontpage, jekyll, blog]
-image: '/images/posts/1.jpg'
+title: Open Lecture — Solar Energy — Securing Namibia's Future Energy
+tags: [open lecture, forum]
+image: '/images/posts/open_lect_poster_solar_20052023.png'
 published: true
 ---
 
