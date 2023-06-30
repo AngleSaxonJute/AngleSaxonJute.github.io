@@ -3,7 +3,7 @@ layout: post
 title: Driving Towards Fairness — Navigating Ethical Challenges in AI for Transportation Equity.
 tags: [frontpage, blog, AI, Transport]
 image: '/images/posts/2.jpg'
-published: True
+published: true
 ---
 
 # Introduction
@@ -16,7 +16,7 @@ In this article we navigate this complex landscape where Transport Equity inters
 # Understanding the Impact of AI in Transporation Engineering
 Of the areas in which AI is being utilised in transport engineering to transform various aspects transportation systems is the optimisation of traffic flow, enhance safety, and improve efficiency. As real-time data are increasingly being pipelined with relative ease from sources such as sensors, cameras, and GPS devises, AI algorithms intelligently adjusttraffic signal timing, predict congestion patterns, and optimise alternate routing. Dynamically adapting to changing traffic conditions, AI helps reduce congestion, minimise travel times, and improve the overall efficiency of transportation networks.
 
-Enhancing safety is another significant benefit of AI in transport. By way of AI empowered technologies such as computer vision and mahine learning, autonomous vehicles (AVs) are able to make sense of their surroundings, enact real-time decisions and navigate roads autonomously. This advancement in AV technology holds the potential to enhance safety on the roads by minimizing human errors and improving response times
+Enhancing safety is another significant benefit of AI in transport. By way of AI empowered technologies such as computer vision and machine learning, autonomous vehicles (AVs) are able to make sense of their surroundings, enact real-time decisions and navigate roads autonomously. This advancement in AV technology holds the potential to enhance safety on the roads by minimizing human errors and improving response times
 
 
 Since AI systems learn from vast amounts of data, which inadvertantly reflect societal prejudices and disparities, one of the primary concerns surrounding AI is its potential to pertuate and amplify existing biases. This bias can manifest in variours ways for tranporation.
