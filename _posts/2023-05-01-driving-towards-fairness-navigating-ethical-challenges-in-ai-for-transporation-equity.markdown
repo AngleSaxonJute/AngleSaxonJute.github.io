@@ -2,7 +2,7 @@
 layout: post
 title: Driving Towards Fairness — Navigating Ethical Challenges in AI for Transportation Equity.
 tags: [frontpage, blog, AI, Transport]
-image: '/images/posts/2.jpg'
+image: '/images/posts/1-1.jpg'
 published: true
 ---
 As AI becomes intertwined with most aspects of our daily lives, the ethical implications that accompany its immense power resounds the importance to take a minute and reflect on what that would mean for transportation When motivated by promises of revolutionising mobility, optimising efficiency, or enhancing safety, it is no surprise that the realm of transportation responded in kind to AI becoming increasingly integrated into our transportation systems. But, as history has taught us that amidst such technological revolutions, there are often ethical challenges that lurk beneath the surface, cautioning us to tread carefully. And it is indeed this clarity of mind that is required in view of ensuring transportation equity.
