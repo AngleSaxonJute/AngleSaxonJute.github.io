@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Driving Towards Fairness — Navigating Ethical Challenges in AI for Transportation Equity.
-tags: [frontpage, blog, AI, Transport]
+tags: [blog, ai, transportequity, transportation, ethics]
 image: '/images/posts/1-1.jpg'
 published: true
 ---
 As AI becomes intertwined with most aspects of our daily lives, the ethical implications that accompany its immense power resounds the importance to take a minute and reflect on what that would mean for transportation When motivated by promises of revolutionising mobility, optimising efficiency, or enhancing safety, it is no surprise that the realm of transportation responded in kind to AI becoming increasingly integrated into our transportation systems. But, as history has taught us that amidst such technological revolutions, there are often ethical challenges that lurk beneath the surface, cautioning us to tread carefully. And it is indeed this clarity of mind that is required in view of ensuring transportation equity.
 
-Broadly understood as the principle of providing fair and just access to transportation resources, transport equity is at the heart of creating inclusive and sustainable communities. While the playing field can be levelled by AI, so too can it possess the potential to reinforce existing inequalities that perpetuate injustices. Harnessing the full potential of AI while safeguarding transport equity warrants finding our way through these ethical challenges. 
+Broadly understood as the principle of providing fair and just access to transportation resources, transport equity is at the heart of creating inclusive and sustainable communities. Just as the playing field can be levelled by AI, so too can it possess the potential to reinforce existing inequalities that perpetuate injustices. Harnessing the full potential of AI while safeguarding transport equity warrants finding our way through these ethical challenges. 
 
 In this article we navigate this complex landscape where Transport Equity intersects AI, staking out markers to orient ourselves within this uncharted territory of ethical considerations. We do so by confronting fundamental questions such as: How we must ensure that the benefits of AI are distributed equitably across diverse communities? Or how can we design AI systems that uphold transportation equity? Thinking in this way we forges a path toward a more just and accessible transport landscape.
 
@@ -77,5 +77,3 @@ Active involvement, my dear readers, is key. Transport knowers and scholars must
 We've also explored the potential biases and risks associated with AI systems, acknowledging the need to critically evaluate their impact on different communities. By carefully considering factors such as accessibility, privacy, and social equity, we can proactively address challenges and ensure that the benefits of AI are shared by all. Or to put it frank, stumble in the potholes of injustice, but rather steer AI towards a bright future where fairness and equity take the wheel.
 
 In summary, ethics, fairness, and equity are not mere buzzwords but essential pillars that must guide the development and implementation of AI systems in transport. By upholding these principles, collaborating across disciplines, and actively participating in the process, we can create a transportation future that is not only efficient and safe but also morally sound.
-
-Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.
