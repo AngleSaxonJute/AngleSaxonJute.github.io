@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpeg'
+image: '/images/pages/ASJLOGOCROP.png'
 ---
 
 Well, hello there, dear chaps and chapettes! Welcome to a jolly good adventure at our esteemed forum. Here at Angle, Saxon and Jute, we're diving headfirst into the captivating world of technology for social change and tackling those pesky aspects of social inequity. 
