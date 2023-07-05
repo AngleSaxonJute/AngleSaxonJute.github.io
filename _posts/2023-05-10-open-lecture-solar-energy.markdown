@@ -1,32 +1,41 @@
 ---
 layout: post
 title: Open Lecture — Solar Energy — Securing Namibia's Future Energy
-tags: [open lecture, forum]
+tags: [openlecture, blog, solarenergy]
 image: '/images/posts/open_lect_poster_solar_20052023.png'
 published: true
 ---
+We are jolly excited to announce the launch of our very first open lecture on solar energy, where we shall bask in the radiant glow of brilliance and innovation! Join us for an electrifying time of knowledge sharing as we delve into the captivating world of solar power and its splendid potential.
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+Are you eager to learn about the latest advancements in solar technology? Do you dream of harnessing the power of the sun to create a blooming sustainable future? Look no further, dear chums! Our esteemed guest speakers, Dr. Petja Dobreva and Associate Professor Sastu Musti, two shining stars in the field, will illuminate the room with their boundless expertise and captivating insights.
 
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
+From photovoltaics to floating solar-power systems, we shall explore the incredible applications of solar energy across diverse sectors. Discover how this marvellous renewable source of power can revolutionize our lives, reduce our carbon footprint, and set apace a greener and sunnier tomorrow.
 
-##### Todo
+Hold your horses, there's more! This open lecture isn't just about nodding off in your chair. It's a lively and interactive experience where you can engage with like-minded enthusiasts, ask burning questions, and ignite thought-provoking discussions. Together, we shall uncover the challenges and opportunities that lie ahead on our sunny journey.
 
-Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.
+🗓️ Mark your calendars for the date: 20 May 2023 and get ready to shine a light on the future of energy! Tickets are available at Eventbrite:
 
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
-    Donec nibh massa, rutrum a sollicitudin eu,
-lacinia in lorem.
+<div id="eventbrite-widget-container-633525681367"></div>
 
-##### Graphic design
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-> Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
 
-Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '633525681367',
+        iframeContainerId: 'eventbrite-widget-container-633525681367',
 
-![alt](https://images.unsplash.com/photo-1433785567155-bf5530cab72c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1348aea714b9493fa61a09a8c01113e6)
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
-Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.
+🌞 Don't be a cloudy day spoilsport! Grab this enlightening opportunity to expand your solar knowledge and become a proud member of the solar revolution. Together, let's harness the power of the sun to create a brighter, cleaner, and more sustainable world. See you at the open lecture, old chums!
 
-Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.
+#SolarPowerRevolution #HarnessTheSun #OpenLectureSeries
