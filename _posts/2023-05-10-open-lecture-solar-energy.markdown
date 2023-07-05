@@ -5,7 +5,7 @@ tags: [openlecture, blog, solarenergy, events]
 image: '/images/posts/open_lect_poster_solar_20052023.png'
 published: false
 ---
-We are jolly excited to announce the launch of our very first open lecture on solar energy, where we shall bask in the radiant glow of brilliance and innovation! Join us for an electrifying time of knowledge sharing as we delve into the captivating world of solar power and its splendid potential.
+Wee are jolly excited to announce the launch of our very first open lecture on solar energy, where we shall bask in the radiant glow of brilliance and innovation! Join us for an electrifying time of knowledge sharing as we delve into the captivating world of solar power and its splendid potential.
 
 Are you eager to learn about the latest advancements in solar technology? Do you dream of harnessing the power of the sun to create a blooming sustainable future? Look no further, dear chums! Our esteemed guest speakers, Dr. Petja Dobreva and Associate Professor Sastu Musti, two shining stars in the field, will illuminate the room with their boundless expertise and captivating insights.
 
