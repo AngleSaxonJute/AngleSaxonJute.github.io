@@ -69,7 +69,7 @@ Hence, without addressing misconceptions and fears surrounding AV's, trust build
 
 Lastly, engaging the public in pilot projects and trials of AVs can foster trust by allowing individuals to experience the technology firsthand. By involving volunteers, community members, and related stakeholders in real-world testing scenarios, people can witness the safety, reliability, and performance of AVs. This hands-on involvement provides an opportunity for direct engagement, feedback, and the co-creation of solutions, hence, building trust through transparency and inclusivity.
 
-## Conclusion
+## Conclusion.
 Trust plays a vital role in the successful integration of AVs into society. It encompasses factors such as safety, transparency, cybersecurity, and ethical considerations. Building trust is essential for individuals, communities, and stakeholders to embrace this transformative technology and rely on it for their transportation needs.
 
 Utilising a multi-dimensional approach aligns AV trust-building with a diverse perspective-taking that staves potential blind-spots. Safety and reliability must be demonstrated through rigorous testing and certification processes. Transparency and explainability are crucial for users to understand the technology's decision-making processes. Cybersecurity measures and data privacy protections instill confidence in the security of autonomous systems. Ethical considerations, public engagement, and addressing societal impacts are essential for building trust in autonomous technology.
