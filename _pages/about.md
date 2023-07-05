@@ -8,7 +8,7 @@ Welcome to a jolly good adventure at our esteemed forum. Here at Angle, Saxon an
 
 Our mission? To explore the astonishing world of technological marvels and harness their powers for the greater good. From code-cracking wizards to visionary inventors, we aim at assembling a merry band of intellectuals to guide us through this grand adventure.
 
-But hold onto your monocles, for we won't stop at mere theoretical musings or stuffy academic affairs. Oh, no! We're infusing this soirée with a healthy dose of wit and charm. Picture debates between inventors and cheeky robots, trading banter over a cup of steaming tea. Now wouldn't that be a sight to experience? More realistically, however, our open lectures shall be a delightful mix of enlightenment and entertainment, where we delve into the depths of knowledge while having a jolly good laugh.
+But. hold onto your monocles, for we won't stop at mere theoretical musings or stuffy academic affairs. Oh, no! We're infusing this soirée with a healthy dose of wit and charm. Picture debates between inventors and cheeky robots, trading banter over a cup of steaming tea. Now wouldn't that be a sight to experience? More realistically, however, our open lectures shall be a delightful mix of enlightenment and entertainment, where we delve into the depths of knowledge while having a jolly good laugh.
 
 With one eye fixed on the future and the other on social justice, we delve into the knotty tangle of social inequity. From dismantling barriers that hinder progress to unleashing the potential of technology for the marginalized, together we're determined to make a difference. We'll challenge conventional notions, question the status quo, and spark conversations that reverberate through the hallowed halls of change.
 
