@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Driving Towards Fairness—Navigating Ethical Challenges in AI for Transportation Equity.
+title: Driving Towards Fairness—Navigating Ethical Challenges in AI for Transport Equity.
 tags: [blog, ai, transportequity, transportation, ethics]
 image: '/images/posts/1-1.jpg'
 published: true
