@@ -2,7 +2,7 @@
 layout: post
 title: Unleashing the Mind's Wheels of Change—How Social Cycling Ignites Neuroplasticity and Optimal Brain Development
 tags: [braindevelopment, cycling, neuroplasticity, socialcycling]
-image: '/images/posts/cycling.jpg'
+image: '/images/posts/cycle.jpg'
 published: true
 ---
 Emerging as an increasingly popular recreational activity, social cycling not only promotes physical fitness but also offers a wealth of mental and social benefits. As we venture into the fascinating world of neuroplasticity, we uncover the brain's remarkable ability to adapt and rewire itself in response to various stimuli and experiences. Neuroplasticity plays a vital role in brain development, learning, and the maintenance of cognitive function throughout life. In this article, we explore the intriguing connection between social cycling and neuroplasticity, revealing how this simple yet innovative technology—i.e. bicycles—can positively impact brain development and maintenance.
