@@ -16,6 +16,8 @@ github:      'https://github.com/AngleSaxonJute'
 instagram:   ''
 facebook:    'https://www.facebook.com/profile.php?id=100092645106994'
 
+google_analytics: G-6FPLRYP1QR
+
 markdown:  kramdown
 permalink: pretty
 paginate:  10
