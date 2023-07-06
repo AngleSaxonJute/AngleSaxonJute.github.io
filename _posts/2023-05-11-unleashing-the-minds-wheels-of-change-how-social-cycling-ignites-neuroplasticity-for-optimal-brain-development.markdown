@@ -87,4 +87,4 @@ Above all, remember that social cycling is not solely about physical exercise. E
 
 These practical tips can optimise the neuroplastic benefits of brain development and maintenance. Whether you're cycling leisurely, to become fit, or a combination of both, social cycling offers a unique and fulfilling experience that nourishes the brain and nurtures personal growth.
 
-Now, if you've found yourself reading the entire article, then why not befriend us at either platform below to stay updated on the forum's happenings.
+Now, if you've found yourself reading the entire article, then why not befriend us at either social-media platform below to stay updated on the forum's happenings.
