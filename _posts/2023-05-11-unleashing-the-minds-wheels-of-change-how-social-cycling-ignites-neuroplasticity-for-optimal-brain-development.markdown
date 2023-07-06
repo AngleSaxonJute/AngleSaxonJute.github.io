@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unleashing the Mind's Wheels of Change—How Social Cycling Ignites Neuroplasticity and Optimal Brain Development
+title: Keep Calm and Cycle On—Ignite Neuroplasticity and Optimal Brain Development with Social Cycling
 tags: [braindevelopment, cycling, neuroplasticity, socialcycling]
 image: '/images/posts/cycle.jpg'
 published: true
