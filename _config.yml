@@ -8,11 +8,11 @@
 # Site settings
 title:       Angle, Saxon & Jute Forum
 email:       'angle-saxon-jute@protonmail.com'
-description: 'Forum of Open Learning'
-baseurl:     '' # The subpath of your site, e.g. /blog
+description: 'Open Learning Forum'
+baseurl:     'https://anglesaxonjute.github.io/about.html' # The subpath of your site, e.g. /blog
 url:         'https://anglesaxonjute.org/' # The base hostname & protocol for your site
 twitter:     ''
-github:      'https://github.com/AngleSaxonJute'
+github:      ''
 instagram:   ''
 facebook:    'https://www.facebook.com/profile.php?id=100092645106994'
 
