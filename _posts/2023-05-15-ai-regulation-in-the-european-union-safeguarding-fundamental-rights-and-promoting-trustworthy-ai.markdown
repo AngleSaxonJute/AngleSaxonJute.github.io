@@ -5,7 +5,7 @@ tags: [ai, blog, europeanunion, eu]
 image: '/images/posts/euai.jpg'
 published: true
 ---
-Artificial intelligence (AI) technologies have emerged as a transformative force with the potential to revolutionize various sectors, including environment and health, the public sector, finance, mobility, home affairs, and agriculture. AI offers numerous benefits, such as improved prediction, optimised operations, resource allocation, and personalised services. However, the rise of AI systems also raises concerns about their implications for fundamental rights protected under the EU Charter of Fundamental Rights and the safety risks they pose to users when embedded in products and services.
+Artificial intelligence (AI) technologies have emerged as a transformative force with the potential to revolutionise various sectors, including environment and health, the public sector, finance, mobility, home affairs, and agriculture. AI offers numerous benefits, such as improved prediction, optimised operations, resource allocation, and personalised services. However, the rise of AI systems also raises concerns about their implications for fundamental rights protected under the EU Charter of Fundamental Rights and the safety risks they pose to users when embedded in products and services.
 
 Recognising the importance of addressing these challenges, the European Union (EU) has taken steps to develop a comprehensive regulatory framework for AI. The EU aims to adopt a "human-centric" approach that ensures Europeans can benefit from AI technologies while upholding EU values and principles. While the EU does not yet have a specific legal framework for AI, it has outlined its vision and intentions through various policy documents.
 
