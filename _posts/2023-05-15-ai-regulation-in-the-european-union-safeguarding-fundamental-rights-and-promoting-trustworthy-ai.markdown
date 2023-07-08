@@ -2,7 +2,7 @@
 layout: post
 title: AI Regulation in the European Union—Safeguarding Fundamental Rights and Promoting Trustworthy AI
 tags: [ai, blog, europeanunion, eu]
-image: '/images/posts/5.jpg'
+image: '/images/posts/euai.jpg'
 published: true
 ---
 Artificial intelligence (AI) technologies have emerged as a transformative force with the potential to revolutionize various sectors, including environment and health, the public sector, finance, mobility, home affairs, and agriculture. AI offers numerous benefits, such as improved prediction, optimised operations, resource allocation, and personalised services. However, the rise of AI systems also raises concerns about their implications for fundamental rights protected under the EU Charter of Fundamental Rights and the safety risks they pose to users when embedded in products and services.
