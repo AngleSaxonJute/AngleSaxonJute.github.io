@@ -13,7 +13,7 @@ In 2019, the European Commission published non-binding Ethics Guidelines for Tru
 
 The European Parliament has also played a crucial role in shaping the AI debate at the EU level. In 2017, the Parliament called for the assessment of AI's impact and the drafting of an EU framework for AI. Subsequently, it adopted several resolutions in 2020 and 2021, urging EU action and the adoption of legislation on AI in various fields, including ethics, liability, and civil and military uses.
 
-The Council of the EU, representing the member states, has repeatedly called for the adoption of common AI rules. In 2020, the Council called on the Commission to propose concrete measures, considering existing legislation and adopting a risk-based and proportionate regulatory approach. The Council also emphasised the importance of identifying, predicting, and responding to the potential impacts of digital technologies, including AI, on fundamental rights.
+The EU Council, representing the member states, has repeatedly called for the adoption of common AI rules. In 2020, the Council called on the Commission to propose concrete measures, considering existing legislation and adopting a risk-based and proportionate regulatory approach. The Council also emphasised the importance of identifying, predicting, and responding to the potential impacts of digital technologies, including AI, on fundamental rights.
 
 To inform the development of AI regulation, the European Commission conducted a public consultation in 2020 and published an Impact Assessment of the proposed regulation. The assessment identified six main problems related to AI systems: increased risks to safety and security, violations of fundamental rights and Union values, inadequate authorities' powers and resources, legal uncertainty, mistrust in AI, and fragmented measures hindering the cross-border AI single market.
 
@@ -31,16 +31,17 @@ The proposed AI act has received both support and criticism from various stakeho
 
 Experts have raised concerns about the definition of AI systems, the risk-based approach, enforcement mechanisms, and coordination between authorities. There are calls for clearer definitions, better allocation of responsibility, enhanced enforcement structures, and the inclusion of individual enforcement rights. The need for democratic oversight and impact assessments on individuals and society is also emphasized.
 
-The legislative process for the proposed AI act is underway, with the European Parliament and the Council of the EU reviewing and discussing the draft. Stakeholders' feedback and input are being considered to refine the act and address its potential shortcomings.
+The legislative process for the proposed AI act is underway, with the European Parliament and the EU Council reviewing and discussing the draft. Stakeholders' feedback and input are being considered to refine the act and address its potential shortcomings.
 
 In conclusion, the EU recognises the potential benefits of AI while acknowledging the risks it poses to fundamental rights and user safety. The proposed AI act represents a significant step toward establishing a harmonised regulatory framework that safeguards fundamental rights, ensures safety, and promotes trustworthy AI systems. As the EU continues its efforts to shape AI regulation, it must strike a balance between innovation and protection to foster public trust and realise the full potential of AI technologies in a responsible and ethical manner.
 
+---
 ### Key takeaway points:
 
 1. AI technologies offer economic and societal benefits across various sectors, but they also raise concerns about fundamental rights and user safety.
 2. The EU is committed to developing a "human-centric" approach to AI regulation, aligning with EU values and principles.
 3. The EU initially adopted a soft-law approach with non-binding guidelines but later shifted toward a legislative approach to regulate AI.
-4. The European Parliament and the Council of the EU have called for AI regulation and have issued resolutions urging EU action.
+4. The European Parliament and the EU Council have called for AI regulation and have issued resolutions urging EU action.
 5. The European Commission conducted a public consultation and published an Impact Assessment to inform the development of AI regulation.
 6. The proposed AI act aims to create a harmonised legal framework for the development, market placement, and use of trustworthy AI systems.
 7. The act categorises AI systems into different risk levels, with specific regulations for harmful AI practices and high-risk AI systems.
