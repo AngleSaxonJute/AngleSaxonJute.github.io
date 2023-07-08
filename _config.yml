@@ -9,7 +9,7 @@
 title:       Angle, Saxon & Jute Forum
 email:       'angle-saxon-jute@protonmail.com'
 description: 'Open Learning Forum'
-baseurl:     'https://anglesaxonjute.github.io/about.html' # The subpath of your site, e.g. /blog
+baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://anglesaxonjute.org/' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
