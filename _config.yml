@@ -17,7 +17,6 @@ instagram:   ''
 facebook:    'https://www.facebook.com/profile.php?id=100092645106994'
 
 google_analytics: G-6FPLRYP1QR
-talkyard_server_url: https://comments-for-your-site.talkyard.net
 
 markdown:  kramdown
 permalink: pretty
