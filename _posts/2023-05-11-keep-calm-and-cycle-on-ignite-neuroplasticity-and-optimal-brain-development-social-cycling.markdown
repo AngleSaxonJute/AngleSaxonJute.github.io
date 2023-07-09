@@ -7,7 +7,7 @@ published: true
 ---
 Social cycling is becoming an increasingly popular recreational activity in recent years. Not only does it promote physical fitness but also offers a wealth of mental and social benefits. While the benefits of physical exercise on neuroplasticity are widely acknowledged, the addition of social interaction during cycling brings a unique dimension to the equation. Cycling as a form of physical exercise, has been proven to release growth factors and neurotransmitters that facilitate neuroplastic change in the brain. Simultaneously, social engagement has been found to stimulate neuroplasticity, leading to improvements in cognitive abilities and emotional well-being. By merging the physical exertion of cycling with the social dynamics of group participation, social cycling creates an optimal environment that stimulate neuroplastic brain processes.
 
-In this article, we explore the intriguing connection between social cycling and neuroplasticity, revealing how this simple yet innovative technology—i.e. the bicycle—can positively impact brain development and maintenance.
+In this article, we explore the intriguing connection between social cycling and neuroplasticity, revealing how this simple yet innovative technology—i.e., the bicycle—can positively impact brain development and maintenance.
 
 ## What is Neuroplasticity?
 
