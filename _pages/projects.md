@@ -4,8 +4,9 @@ title: Projects
 # image: '/images/pages/about.png'
 published: true
 ---
-
+---
 ### Investigating the Acceptance of Autonomous Vehicles — Leapfrogging Technology at the Urban Periphery
+---
 We invite you to explore more of our project, which aims to investigate the acceptance of autonomous vehicles (AVs) at the urban periphery. The project delves into the potential benefits and challenges of implementing novel transport technology in traditionally underserved areas. By focusing on the feasibility and impact of AVs at the urban periphery, we contribute to our understanding of innovative solutions for transportation and urban development.
 
 Transportation plays a pivotal role in shaping urban landscapes and residents' quality of life. However, many urban peripheries, particularly in developing regions, grapple with inadequate transportation infrastructure and limited access to (modern) transport technology. Traditional economic evaluation models often deem implementing new technologies in such areas economically unviable. Hence, through our research, we seek to provide insights into the feasibility and impact of adopting advanced transport solutions in traditionally underserved areas.
