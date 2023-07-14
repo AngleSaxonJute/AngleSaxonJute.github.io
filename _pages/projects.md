@@ -16,3 +16,4 @@ In particular, this project investigates dimensions such as technological feasib
 For more information about our project and to stay updated with our findings, please visit our [Facebook page](https://www.facebook.com/profile.php?id=100092645106994). Or partake in our 15-minute [survey](https://tinyurl.com/supportindependentresearch) and be part of shaping transport for the greater good of society.
 
 We look forward to sharing our progress and engaging in discussions about the future of transportation and urban development.
+---
