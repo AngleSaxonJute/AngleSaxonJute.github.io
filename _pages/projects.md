@@ -5,7 +5,7 @@ image: '/images/pages/styleguide.jpg'
 published: true
 ---
 
-**Investigating the Acceptance of Autonomous Vehicles and Leapfrogging Technology at the Urban Periphery**
+**Investigating the Acceptance of Autonomous Vehicles — Leapfrogging Technology at the Urban Periphery**
 
 We invite you to explore more our project, which aims to investigate the acceptance of autonomous vehicles and leapfrogging technology at the urban periphery. The project delves into the potential benefits and challenges of implementing novel transport technology in traditionally underserved areas. By focusing on the feasibility and impact of autonomous vehicles at the urban periphery, we contribute to our understanding of innovative solutions for transportation and urban development.
 
