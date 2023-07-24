@@ -21,7 +21,7 @@ Technology is a potent tool that can be harnessed to drive social change and pro
 
 Key Takeaway Points
 
-1. Ecotourism is a transformative way of traveling that puts environmental conservation and community well-being first.
+1. Ecotourism is a transformative means of traveling that puts environmental conservation and community well-being first.
 
 2. Technology can play a vital role in promoting ecotourism through VR experiences, sustainable travel apps, community engagement platforms, and environmental education.
 
