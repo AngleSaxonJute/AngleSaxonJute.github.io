@@ -2,7 +2,7 @@
 layout: post
 title: Greening the Globe — Technology's role in Advancing Ecotourism
 tags: [ecotoursim, socialmedia]
-image: '/images/posts/4.jpg'
+#image: '/images/posts/4.jpg'
 published: true
 ---
 In the age of rapid technological advancements, the world is witnessing a significant shift towards sustainable practices and environmental consciousness. One such revolutionary concept that has gained immense popularity is ecotourism, a responsible and mindful approach to travel that advocates conservation and supports local communities. In this blog post, we explore how harnessing the power of technology for social change can be a game-changer in promoting ecotourism, leading to a greener, more sustainable future of our planet.
