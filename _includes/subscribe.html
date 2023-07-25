@@ -12,7 +12,8 @@
   /* customize formbutton below*/
   formbutton("create", {
     action: "https://formspree.io/f/xqkvandb",
-    title: "How can we help?",
+    buttonImg: <i class="fa-thin fa-message fa-fade" style="color: #00acfd;"></i>
+    title: "Subscribe To Our Newsletter",
     fields: [
       {
         type: "email",
@@ -25,7 +26,7 @@
         type: "textarea",
         label: "Message:",
         name: "message",
-        placeholder: "What's on your mind?",
+        placeholder: "Optional: Leave us a comment.",
       },
       { type: "submit" }
     ],
