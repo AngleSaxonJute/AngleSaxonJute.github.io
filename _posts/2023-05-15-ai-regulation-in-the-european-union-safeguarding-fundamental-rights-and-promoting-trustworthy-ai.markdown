@@ -36,7 +36,7 @@ The legislative process for the proposed AI act is underway, with the European P
 In conclusion, the EU recognises the potential benefits of AI while acknowledging the risks it poses to fundamental rights and user safety. The proposed AI act represents a significant step toward establishing a harmonised regulatory framework that safeguards fundamental rights, ensures safety, and promotes trustworthy AI systems. As the EU continues its efforts to shape AI regulation, it must strike a balance between innovation and protection to foster public trust and realise the full potential of AI technologies in a responsible and ethical manner.
 
 ---
-### Key takeaway points:
+### Key Takeaway:
 
 1. AI technologies offer economic and societal benefits across various sectors, but they also raise concerns about fundamental rights and user safety.
 2. The EU is committed to developing a "human-centric" approach to AI regulation, aligning with EU values and principles.
