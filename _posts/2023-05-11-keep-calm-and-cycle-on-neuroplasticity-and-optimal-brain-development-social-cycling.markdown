@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keep Calm and Cycle On—Ignite Neuroplasticity and Optimal Brain Development—Social Cycling
+title: Keep Calm and Cycle On — Neuroplasticity and Optimal Brain Development — Social Cycling
 tags: [blog, brain, braindevelopment, cycling, neuroplasticity, socialcycling]
 image: '/images/posts/cycle.jpg'
 published: true
