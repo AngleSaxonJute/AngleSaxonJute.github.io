@@ -6,7 +6,7 @@ published: true
 ---
 ---
 
-## Autonomous Vehicle (AV) Acceptance — Transport Technology at the Urban Periphery
+## Autonomous Vehicles (AV) — Transport Technology at the Urban Periphery
 
 This project examines the potential benefits and challenges of implementing novel transport technology in traditionally underserved areas. By focusing on the feasibility and impact of AVs at the urban periphery, we contribute to the knowledge base of innovative solutions for transportation and urban development.
 
