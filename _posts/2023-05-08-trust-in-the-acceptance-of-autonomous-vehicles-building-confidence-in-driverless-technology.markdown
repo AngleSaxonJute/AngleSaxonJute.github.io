@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trust in the Acceptance of Autonomous Vehicles—Building Confidence in Driverless Technology
-tags: [blog, autonomousvehicles, av, transportation, trust]
+tags: [blog, autonomousvehicles, av, transport, transportation, trust]
 image: '/images/posts/avtrust.jpg'
 published: true
 ---

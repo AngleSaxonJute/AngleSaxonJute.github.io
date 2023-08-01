@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Shifting Perception of Digital Media in Democracy — A Paradox Unveiled
-tags: [blog, democraty, digitalmedia, governance, democraticgovernance]
+tags: [blog, democracy, digitalmedia, governance, democraticgovernance]
 published: false
 ---
 

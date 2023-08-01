@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Blockchain in Empowering Marginalised Communities
-tags: [blockchain, blog, fintech]
+tags: [blockchain, blog, cryptocurrency, fintech]
 image: '/images/posts/blockchain.jpg'
 published: true
 ---

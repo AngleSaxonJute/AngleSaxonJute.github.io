@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conserving the Globe — Technology's Role of Advancing Ecotourism
-tags: [blog, digitialmedia, ecotoursim, socialmedia]
+tags: [blog, digitalmedia, ecotoursim, socialmedia]
 #image: '/images/posts/4.jpg'
 published: false
 ---

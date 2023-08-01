@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Lecture - Solar Energy - Securing Namibia's Future Energy
-tags: [blog, event, openlecture, solarenergy]
+tags: [blog, event, openlecture, solarenergy, solarcells, photovoltaic]
 image: '/images/posts/open_lect_poster_solar_20052023.png'
 published: false
 ---
