@@ -30,4 +30,4 @@ In conclusion, the paradox of digital media in democracy is a profound and dynam
 
 ---
 
-Follow us at our social media below for more post like these!
+Follow us on social media — links below — for more post like these!
