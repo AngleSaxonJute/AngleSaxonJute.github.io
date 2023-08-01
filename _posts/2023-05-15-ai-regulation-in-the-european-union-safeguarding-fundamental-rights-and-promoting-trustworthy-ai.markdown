@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Regulation in the European Union—Safeguarding Fundamental Rights and Promoting Trustworthy AI
-tags: [ai, blog, europeanunion, eu]
+tags: [ai, blog, europeanunion, eu, regulation, policy]
 image: '/images/posts/euai.jpg'
 published: true
 ---
