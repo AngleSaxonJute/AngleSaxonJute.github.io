@@ -10,7 +10,7 @@ published: true
 
 This project examines the potential benefits and challenges of implementing novel transport technology in traditionally underserved areas. By focusing on the feasibility and impact of AVs at the urban periphery, we contribute to the knowledge base of innovative solutions for transportation and urban development.
 
-Transport plays a vital role in shaping urban landscapes and residents' quality of life. However, many urban peripheries, particularly in developing regions, grapple with inadequate transport infrastructure and limited access to (modern) transport technology. Traditional economic evaluation models often deem implementing new technologies in such areas economically unviable.
+Transport plays a vital role in shaping the urban landscape and residents' quality of life. However, many urban peripheries, particularly in developing regions, grapple with inadequate transport infrastructure and limited access to (modern) transport technology. Traditional economic evaluation models often deem implementing new technologies in such areas economically unviable.
 
 Through this project, we seek to provide insights into the feasibility and impact of adopting advanced transport solutions in traditionally underserved areas.
 
