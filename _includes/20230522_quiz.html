@@ -1,0 +1,39 @@
+<form id="fs-frm" name="survey-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<label for="full-name">Take the Quiz and See How You Rank. </label>
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <fieldset id="fs-frm-selects">
+      <label for="paradox">1. What is the main paradox highlighted in the article regarding digital media in democracy?</label>
+      <select name="paradox" id="paradox" required="">
+        <option value="" selected="" disabled="">Choose</option>
+        <option value="1">Digital media is both empowering and threatening to democracy</option>
+        <option value="2">Digital media is always beneficial for democracy</option>
+        <option value="3">Digital media has no impact on democracy</option>
+        <option value="4">Digital media is always harmful to democracy</option>
+      </select>
+      <label for="revelation">2. What was the key revelation of in the Cambridge Analytica incident?</label>
+      <select name="revelation" id="revelation" required="">
+        <option value="" selected="" disabled="">Choose</option>
+        <option value="1">Personal data of users was used for political purposes without consent</option>
+        <option value="2">Big tech companies controlled digital media content</option>
+        <option value="3">Digital media was used to spread disinformation</option>
+        <option value="4">Social media was used to target gullible supporters</option>
+      </select>
+      <label for="dempractice">3. How does the concept of democratic practices define democracy?</label>
+      <select name="dempractice" id="dempractice" required="">
+        <option value="" selected="" disabled="">Choose</option>
+        <option value="1">Democracy is an independent variable set apart from the internet's capacity for empowering citizens</option>
+        <option value="2">Democracy is an unchanging and solid entity bestowed upon society</option>
+        <option value="3">Democracy is an ever-evolving assemblage of cultural practices shaped by social interactions and communication technologies</option>
+        <option value="4">Democracy is a value-neutral realm that is not influenced by digital media</option>
+      </select>
+    </fieldset>
+    <label for="message">Additional Comments</label>
+    <textarea rows="3" name="message" id="message" placeholder="Tell us something interesting" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Survey Responses">
+  </fieldset>
+  <input type="submit" value="Send Responses">
+</form>
