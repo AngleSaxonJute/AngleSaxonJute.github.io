@@ -2,7 +2,7 @@
 layout: post
 title: The Shifting Perception of Digital Media in Democracy — A Paradox Unveiled
 tags: [blog, democracy, digitalmedia, governance, democraticgovernance]
-published: true
+published: false
 ---
 
 In this epoch of rapid technological advancements, the digital media landscape has metamorphosed, ushering a paradox that echoes through the annals of history. Once hailed as the harbinger of democratic empowerment, digital media has not so long ago casted a shadow over the democratic polity, stoking fears and suspicions of its influence on political outcomes. The enigma of this shift in perception, warrants pondering the sociology of the internet and the tumultuous journey of digital media in democracy.
