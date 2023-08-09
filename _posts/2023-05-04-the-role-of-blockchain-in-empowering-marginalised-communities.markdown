@@ -22,7 +22,7 @@ Blockchain technology has a wide range of applications. It enables decentralized
 
 Identity management is another critical area where blockchain can make a significant impact. Blockchain-based digital identity solutions provide secure and verifiable identities, enabling access to public services, social welfare programs, and healthcare.
 
-Blockchains transparency and traceability features has changed supply chain management, benefiting both producers and consumers. By enabling tracking of products from source to sale, blockchain ensures fair trade practices, eliminates counterfeit goods, and provides consumers with information about the origin and quality of their purchases.
+Blockchain's transparency and traceability features has changed supply chain management, benefiting both producers and consumers. By enabling tracking of products from source to sale, blockchain ensures fair trade practices, eliminates counterfeit goods, and provides consumers with information about the origin and quality of their purchases.
 
 Moreover, blockchain can address land ownership and property rights issues. By securing land titles on the blockchain, fraudulent transactions can be prevented, empowering marginalized individuals in land disputes and promoting a more equitable society.
 
